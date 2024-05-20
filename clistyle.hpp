@@ -1871,48 +1871,48 @@ namespace CLIStyle {
   }
 }
 
-int main() {
+// int main() {
 
-  cout << CLIStyle::grey<1>("grey") << endl;
-  cout << CLIStyle::red<1>("red") << endl;
-  cout << CLIStyle::green<1>("green") << endl;
-  cout << CLIStyle::yellow<1>("yellow") << endl;
-  cout << CLIStyle::blue<1>("blue") << endl;
-  cout << CLIStyle::magenta<1>("magenta") << endl;
-  cout << CLIStyle::cyan<1>("cyan") << endl;
-  cout << CLIStyle::white<1>("white") << endl;
+//   cout << CLIStyle::grey<1>("grey") << endl;
+//   cout << CLIStyle::red<1>("red") << endl;
+//   cout << CLIStyle::green<1>("green") << endl;
+//   cout << CLIStyle::yellow<1>("yellow") << endl;
+//   cout << CLIStyle::blue<1>("blue") << endl;
+//   cout << CLIStyle::magenta<1>("magenta") << endl;
+//   cout << CLIStyle::cyan<1>("cyan") << endl;
+//   cout << CLIStyle::white<1>("white") << endl;
 
-  cout << CLIStyle::bright_red<1>("bright red") << endl;
-  cout << CLIStyle::bright_green<1>("bright green") << endl;
-  cout << CLIStyle::bright_yellow<1>("bright yellow") << endl;
-  cout << CLIStyle::bright_blue<1>("bright blue") << endl;
-  cout << CLIStyle::bright_magenta<1>("bright magenta") << endl;
-  cout << CLIStyle::bright_cyan<1>("bright cyan") << endl;
-  cout << CLIStyle::bright_white<1>("bright white") << endl;
+//   cout << CLIStyle::bright_red<1>("bright red") << endl;
+//   cout << CLIStyle::bright_green<1>("bright green") << endl;
+//   cout << CLIStyle::bright_yellow<1>("bright yellow") << endl;
+//   cout << CLIStyle::bright_blue<1>("bright blue") << endl;
+//   cout << CLIStyle::bright_magenta<1>("bright magenta") << endl;
+//   cout << CLIStyle::bright_cyan<1>("bright cyan") << endl;
+//   cout << CLIStyle::bright_white<1>("bright white") << endl;
 
-  cout << CLIStyle::grey<0>("grey") << endl;
-  cout << CLIStyle::red<0>("red") << endl;
-  cout << CLIStyle::green<0>("green") << endl;
-  cout << CLIStyle::yellow<0>("yellow") << endl;
-  cout << CLIStyle::blue<0>("blue") << endl;
-  cout << CLIStyle::magenta<0>("magenta") << endl;
-  cout << CLIStyle::cyan<0>("cyan") << endl;
-  cout << CLIStyle::white<0>("white") << endl;
+//   cout << CLIStyle::grey<0>("grey") << endl;
+//   cout << CLIStyle::red<0>("red") << endl;
+//   cout << CLIStyle::green<0>("green") << endl;
+//   cout << CLIStyle::yellow<0>("yellow") << endl;
+//   cout << CLIStyle::blue<0>("blue") << endl;
+//   cout << CLIStyle::magenta<0>("magenta") << endl;
+//   cout << CLIStyle::cyan<0>("cyan") << endl;
+//   cout << CLIStyle::white<0>("white") << endl;
 
-  cout << CLIStyle::bright_red<0>("bright red") << endl;
-  cout << CLIStyle::bright_green<0>("bright green") << endl;
-  cout << CLIStyle::bright_yellow<0>("bright yellow") << endl;
-  cout << CLIStyle::bright_blue<0>("bright blue") << endl;
-  cout << CLIStyle::bright_magenta<0>("bright magenta") << endl;
-  cout << CLIStyle::bright_cyan<0>("bright cyan") << endl;
-  cout << CLIStyle::bright_white<0>("bright white") << endl;
+//   cout << CLIStyle::bright_red<0>("bright red") << endl;
+//   cout << CLIStyle::bright_green<0>("bright green") << endl;
+//   cout << CLIStyle::bright_yellow<0>("bright yellow") << endl;
+//   cout << CLIStyle::bright_blue<0>("bright blue") << endl;
+//   cout << CLIStyle::bright_magenta<0>("bright magenta") << endl;
+//   cout << CLIStyle::bright_cyan<0>("bright cyan") << endl;
+//   cout << CLIStyle::bright_white<0>("bright white") << endl;
 
-  cout << CLIStyle::bold("bold") << endl;
-  cout << CLIStyle::underline("underline") << endl;
-  cout << CLIStyle::italic("italic") << endl;
-  cout << CLIStyle::reverse("reverse") << endl;
+//   cout << CLIStyle::bold("bold") << endl;
+//   cout << CLIStyle::underline("underline") << endl;
+//   cout << CLIStyle::italic("italic") << endl;
+//   cout << CLIStyle::reverse("reverse") << endl;
 
-  return 0;
-} 
+//   return 0;
+// } 
 
 //add 256 color codes
