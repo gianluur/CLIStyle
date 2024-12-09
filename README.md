@@ -1,4 +1,4 @@
-# 🌈 CLIStyle: Style Your Terminal Outputs with Colors and Styles 
+# 🌈 CLIStyle
 
 ### A lightweight, cross-platform C++ library to add **colors**, **backgrounds**, and **styles** to your terminal output. 🚀
 
